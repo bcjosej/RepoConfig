@@ -13,6 +13,8 @@ jboss/server/minimal/log/*.log
 jboss/server/minimal/tmp/**/*
 jboss/server/minimal/data/**/*
 jboss/server/minimal/work/**/*
+jboss/server/minimal/bbva/**/*
+
 
 # deployed package files #
 
