@@ -13,7 +13,7 @@
 
 # Se cargan las variables de entorno y globales de Jboss
 . /MIDDLEWARE/uti/conf/entorno.conf
-. /usr/local/pr/jboss/BBVA/global_jboss.conf
+. /usr /local/pr/jboss/BBVA/global_jboss.conf
 FECHA=`date +"%Y-%m-%d"`
 logFILE="/MIDDLEWARE/uti/logs/jboss.log.$FECHA"
 
